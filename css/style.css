@@ -122,8 +122,12 @@ h1,h3{
 
 /* début exo 06 background-attachement*/
 .img-12{
+    background: url(../images/bg_image_petite.jpg);
+    background-attachment: fixed;
 }
 .img-13{
+    background: url(../images/bg_image_petite.jpg);
+    background-attachment: fixed;
 }
 /* fin exo 06 background-attachement*/
 
